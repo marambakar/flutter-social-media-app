@@ -1,4 +1,4 @@
-# pronz
+# flutter social media app
 
 A new Flutter application.
 
