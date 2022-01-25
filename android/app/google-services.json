@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "645706935292",
+    "project_id": "bronze-app",
+    "storage_bucket": "bronze-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645706935292:android:1415bb88b54cf468b8a079",
+        "android_client_info": {
+          "package_name": "com.example.pronz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645706935292-lrht4sktatn2k2tvuhdmadm4ufd28203.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pronz",
+            "certificate_hash": "fecb8254116b3aef3313591d29d17cd6d7e70660"
+          }
+        },
+        {
+          "client_id": "645706935292-hal4jee4m7mabflu115kibnpnurma4i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkTQqPj2bS-MOy42fj5SuhR9tHmliWkpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645706935292-hal4jee4m7mabflu115kibnpnurma4i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
